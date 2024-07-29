@@ -1,0 +1,3 @@
+git inti to create a git repo
+git add for stagging a file
+git commit -m"" for clicking and saving pic of the staged person 
